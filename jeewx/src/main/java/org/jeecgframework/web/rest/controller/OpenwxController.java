@@ -47,7 +47,7 @@ public class OpenwxController {
 
 	
 	
-	private final String APPID = "?";
+	private final String APPID = "wxe7b7101fcf4a620f";
 	
 	
 	/**
@@ -55,13 +55,13 @@ public class OpenwxController {
 	 */
 	
 	//AppID
-	private final static String COMPONENT_APPID = "?";
+	private final static String COMPONENT_APPID = "wxe7b7101fcf4a620f";
 	//AppSecret
-	private final String COMPONENT_APPSECRET = "?";
+	private final String COMPONENT_APPSECRET = "bb39fd5b8d29fab347dd8cd774825b92";
 	//公众号消息加解密Key
-	private final static String COMPONENT_ENCODINGAESKEY = "?";
+	private final static String COMPONENT_ENCODINGAESKEY = "UOHUeQDNWqoklbJv3YWQZSO6epfGtRyPtgF3EUePS2F";
 	//公众号消息校验Token
-	private final static String COMPONENT_TOKEN = "?";
+	private final static String COMPONENT_TOKEN = "1234567890";
 	@Autowired
 	private SystemService systemService;
 	
